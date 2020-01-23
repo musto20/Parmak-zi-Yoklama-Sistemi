@@ -1,0 +1,37 @@
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.exe.config
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.exe
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.pdb
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.csprojResolveAssemblyReference.cache
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Properties.Resources.resources
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.csproj.GenerateResource.Cache
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.exe
+c:\users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.pdb
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Login.resources
+C:\Users\zeycanlar2014\Documents\Visual Studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Devamsızlık.resources
+C:\Users\zeycanlar2014\Documents\Visual Studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.EgtProfil.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.OgrKayit.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.AddFP.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.AdmProfil.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.EgitmenEkle.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Bolum.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.DersEkle.resources
+C:\Users\zeycanlar2014\documents\visual studio 2015\Projects\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Yoklama.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.exe.config
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.exe
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.pdb
+D:\Ders\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.exe
+D:\Ders\FingerPrintTez\FingerPrintTez\bin\Debug\FingerPrintTez.pdb
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.csprojResolveAssemblyReference.cache
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.AddFP.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.AdmProfil.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Bolum.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.DersEkle.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Devamsızlık.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.EgtProfil.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.EgitmenEkle.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Login.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.OgrKayit.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.OgrSil.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Properties.Resources.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.Yoklama.resources
+D:\Ders\FingerPrintTez\FingerPrintTez\obj\Debug\FingerPrintTez.csproj.GenerateResource.Cache
