@@ -1,2 +1,3 @@
 # Parmak-zi-Yoklama-Sistemi
-Kendi hazırladığım yoklama sistemi kodları
+Parmak iziyle yoklama sistemi kodları 
+Cihaz olarak optik parmak okuyucu FZ2904 kullanılmıştır arayüz olarak c# veritabanı olarakta mssql kullanılmıştır.
